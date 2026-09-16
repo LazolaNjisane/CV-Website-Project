@@ -16,4 +16,5 @@ An interactive, modern portfolio and CV web interface integrated with a custom R
 
 ## ⚙️ Workflow Architecture
 1. **Ingestion Phase:** Pulls documents from Google Drive, splits and embeds the text using Gemini, and stores it in the vector database.
-2. **Inference Phase:** Handles live user messages sent from the website webhook, queries the vector database for context, and generates precise answers via the AI Agent.
+2. **Inference Phase:** Handles live user messages sent from the website webhook, queries the vector database for context, and generates precise answers via the AI Agent.# CV-Website
+# CV-Website

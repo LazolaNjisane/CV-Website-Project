@@ -1,0 +1,17 @@
+# Environment file
+.env
+
+# Folders
+.vscode/
+node_modules/
+Additional Page info/
+Documents_n8n/
+Icons/
+Photos/
+Images/
+
+# Hide all MS Word files
+*.docx
+
+# JSON files (optional: hides all .json files)
+*.json
